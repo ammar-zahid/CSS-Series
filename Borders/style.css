@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    padding: 8px;
+    color: aqua;
+    border-top-style: dashed;
+    border-bottom-style: dashed;
+    border-top-color: saddlebrown;
+    border-bottom-color: saddlebrown;
+}
+
+p {
+    padding: 8px;
+    border: solid;
+    border-color: gold;
+    color: darkmagenta;
+    border-radius: 20px;
+    border-width: 3px;
+}
