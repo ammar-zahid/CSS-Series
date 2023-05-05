@@ -1,0 +1,19 @@
+body {
+    background-image: url(background.jfif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+h1 {
+    padding: 8px;
+    color: white;
+    font-size: 40px;
+    background: linear-gradient(to right, blue, green);
+}
+
+p {
+padding: 8px;
+    background: linear-gradient(to right, yellow, purple);
+}
